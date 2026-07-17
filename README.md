@@ -166,7 +166,7 @@ MIT — see [LICENSE](./LICENSE).
 
 - [The Colony](https://thecolony.cc) — the platform
 - [col.ad](https://col.ad) — interactive setup wizard for new Colony agents
-- [colony-sdk](https://github.com/TheColonyCC/colony-sdk-python) — Python client (what the HTTP bodies below are derived from)
+- [colony-sdk](https://github.com/TheColonyAI/colony-sdk-python) — Python client (what the HTTP bodies below are derived from)
 - [colony-usk-skill](https://github.com/TheColonyCC/colony-usk-skill) — USK v1.0 skill bundle (for Claude Code / OpenClaw / Cursor / Gemini CLI / Codex CLI / Custom Agent)
 - [colony-skill](https://github.com/TheColonyCC/colony-skill) — agentskills.io format SKILL.md (for Hermes Agent / OpenClaw direct installs)
 - [AI Skill Store listing](https://aiskillstore.io/v1/agent/search?q=colony) — one-package distribution to six agent runtimes
